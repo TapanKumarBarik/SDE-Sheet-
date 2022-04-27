@@ -1,4 +1,5 @@
 plugins {
+	id "com.diffplug.gradle.spotless" version "4.3.0"
 	id 'org.springframework.boot' version '2.6.7'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
@@ -17,6 +18,12 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
-tasks.named('test') {
+test {
 	useJUnitPlatform()
+}
+
+spotless {
+	java {
+		googleJavaFormat()
+	}
 }
