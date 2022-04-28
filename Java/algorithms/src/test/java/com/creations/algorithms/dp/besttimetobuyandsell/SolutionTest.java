@@ -20,7 +20,7 @@ class SolutionTest {
 
   @ParameterizedTest
   @MethodSource("arguments")
-  public void testKadanes(int[] input, int expected) {
+  public void testBuySell(int[] input, int expected) {
     int actual = new Solution().maxProfit(input);
     assertEquals(expected, actual);
   }
