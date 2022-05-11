@@ -46,7 +46,7 @@ public class NextPermutation {
         nums[j] = temp;
     }
 
-    // www.codingninjas.com/codestudio/problems/893046?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+    // www.codingninjas.com/codestudio/problems/893046
 
     public static ArrayList<Integer> nextPermutation(ArrayList<Integer> p) {
         // Write your code here.

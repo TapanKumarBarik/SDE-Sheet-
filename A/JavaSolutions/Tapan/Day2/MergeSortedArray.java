@@ -24,7 +24,7 @@ public class MergeSortedArray {
         }
     }
 
-    // https://www.codingninjas.com/codestudio/problems/1214628?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+    // https://www.codingninjas.com/codestudio/problems/1214628
     public static int[] ninjaAndSortedArrays(int arr1[], int arr2[], int m, int n) {
         // Write your code here.
 

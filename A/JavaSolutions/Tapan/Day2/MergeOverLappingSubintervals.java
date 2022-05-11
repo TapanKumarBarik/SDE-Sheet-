@@ -48,5 +48,5 @@ public class MergeOverLappingSubintervals {
 
     }
 
-    // https://www.codingninjas.com/codestudio/problems/699917?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+    // https://www.codingninjas.com/codestudio/problems/699917
 }

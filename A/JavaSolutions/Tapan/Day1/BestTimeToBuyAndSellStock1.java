@@ -23,7 +23,7 @@ public class BestTimeToBuyAndSellStock1 {
         return maxProfit;
     }
 
-    // https://www.codingninjas.com/codestudio/problems/893405?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+    // https://www.codingninjas.com/codestudio/problems/893405
 
     public static int maximumProfit(ArrayList<Integer> p) {
         // Write your code here.

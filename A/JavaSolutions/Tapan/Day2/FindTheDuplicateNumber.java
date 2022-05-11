@@ -23,7 +23,7 @@ public class FindTheDuplicateNumber {
         return slow;
 
     }
-    // https://www.codingninjas.com/codestudio/problems/1112602?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+    // https://www.codingninjas.com/codestudio/problems/1112602
 
     public static int findDuplicate(ArrayList<Integer> arr, int n) {
         // Write your code here.

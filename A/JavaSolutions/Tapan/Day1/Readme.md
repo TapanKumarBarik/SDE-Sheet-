@@ -12,7 +12,7 @@
 
 #### https://leetcode.com/problems/pascals-triangle/
 
-#### https://www.codingninjas.com/codestudio/problems/1089580?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+#### https://www.codingninjas.com/codestudio/problems/1089580
 
 ## Problem 3
 
@@ -20,7 +20,7 @@
 
 #### https://leetcode.com/problems/maximum-subarray/
 
-#### https://www.codingninjas.com/codestudio/problems/630526?leftPanelTab=0
+#### https://www.codingninjas.com/codestudio/problems/630526
 
 ## Problem 4
 
@@ -28,7 +28,7 @@
 
 #### https://leetcode.com/problems/sort-colors/
 
-#### https://www.codingninjas.com/codestudio/problems/631055?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+#### https://www.codingninjas.com/codestudio/problems/631055
 
 ## Problem 5
 
@@ -36,7 +36,7 @@
 
 #### https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-#### https://www.codingninjas.com/codestudio/problems/893405?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+#### https://www.codingninjas.com/codestudio/problems/893405
 
 ## Problem 6
 
@@ -44,4 +44,4 @@
 
 #### https://leetcode.com/problems/next-permutation/
 
-#### www.codingninjas.com/codestudio/problems/893046?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+#### www.codingninjas.com/codestudio/problems/893046

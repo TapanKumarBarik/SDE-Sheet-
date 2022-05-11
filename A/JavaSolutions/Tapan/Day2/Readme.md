@@ -6,7 +6,7 @@
 
 #### https://leetcode.com/problems/rotate-image/
 
-#### https://www.codingninjas.com/codestudio/problems/981260?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+#### https://www.codingninjas.com/codestudio/problems/981260
 
 ## Problem 2
 
@@ -14,7 +14,7 @@
 
 #### https://leetcode.com/problems/find-the-duplicate-number/
 
-#### https://www.codingninjas.com/codestudio/problems/1112602?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+#### https://www.codingninjas.com/codestudio/problems/1112602
 
 ## Problem 3
 
@@ -22,7 +22,7 @@
 
 #### https://leetcode.com/problems/merge-sorted-array/
 
-#### https://www.codingninjas.com/codestudio/problems/1214628?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+#### https://www.codingninjas.com/codestudio/problems/1214628
 
 ## Problem 4
 
@@ -30,7 +30,7 @@
 
 #### https://www.interviewbit.com/problems/repeat-and-missing-number-array/
 
-#### https://www.codingninjas.com/codestudio/problems/873366?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+#### https://www.codingninjas.com/codestudio/problems/873366
 
 ## Problem 5
 
@@ -38,7 +38,7 @@
 
 #### https://leetcode.com/problems/merge-intervals/
 
-#### https://www.codingninjas.com/codestudio/problems/699917?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+#### https://www.codingninjas.com/codestudio/problems/699917
 
 ## Problem 6
 

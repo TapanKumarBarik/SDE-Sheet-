@@ -23,8 +23,8 @@ public class MaximunSubArray {
         return max;
 
     }
-    // https://www.codingninjas.com/codestudio/problems/630526?leftPanelTab=0
 
+    // https://www.codingninjas.com/codestudio/problems/630526
     public static long maxSubarraySum(int[] arr, int n) {
         // write your code here
 

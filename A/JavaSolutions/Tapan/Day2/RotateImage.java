@@ -43,5 +43,5 @@ public class RotateImage {
         m[j][i] = temp;
     }
 
-    // https://www.codingninjas.com/codestudio/problems/981260?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+    // https://www.codingninjas.com/codestudio/problems/981260
 }

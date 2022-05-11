@@ -24,7 +24,7 @@ public class PasCalTriangle {
         return arr;
     }
 
-    // https://www.codingninjas.com/codestudio/problems/1089580?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+    // https://www.codingninjas.com/codestudio/problems/1089580
 
     public static ArrayList<ArrayList<Long>> printPascal(int n) {
         // Write your code here.

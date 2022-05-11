@@ -38,7 +38,7 @@ public class SortColors {
 
     }
 
-    // https://www.codingninjas.com/codestudio/problems/631055?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+    // https://www.codingninjas.com/codestudio/problems/631055
     public static void sort012(int[] arr) {
         // Write your code here
 
