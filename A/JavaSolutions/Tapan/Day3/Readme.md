@@ -21,3 +21,29 @@
 ### Majority Element
 
 #### https://leetcode.com/problems/majority-element/
+
+#### https://www.codingninjas.com/codestudio/problems/842495
+
+## Problem 4
+
+### Majority Element II
+
+#### https://leetcode.com/problems/majority-element-ii/
+
+#### https://www.codingninjas.com/codestudio/problems/893027
+
+## Problem 5
+
+### Reverse Pairs
+
+#### https://leetcode.com/problems/reverse-pairs/
+
+#### https://www.codingninjas.com/codestudio/problems/1112652
+
+## Problem 6
+
+### Total Unique Paths
+
+#### https://leetcode.com/problems/unique-paths/
+
+#### https://www.codingninjas.com/codestudio/problems/1081470
