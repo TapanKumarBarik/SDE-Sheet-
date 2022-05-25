@@ -37,3 +37,11 @@
 #### https://leetcode.com/problems/permutation-sequence/
 
 #### https://www.codingninjas.com/codestudio/problems/1112626
+
+## Problem 6
+
+### Palindrome Partitioning
+
+#### https://leetcode.com/problems/palindrome-partitioning/
+
+#### https://www.codingninjas.com/codestudio/problems/799931
