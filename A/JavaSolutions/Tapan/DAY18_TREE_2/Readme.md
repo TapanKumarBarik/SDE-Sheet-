@@ -15,3 +15,16 @@
 #### <https://leetcode.com/problems/same-tree/>
 
 #### <https://www.codingninjas.com/codestudio/problems/799364>
+
+## Problem 3
+
+### Binary Tree Zigzag Level Order Traversal
+
+#### <https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/>
+
+#### <https://www.codingninjas.com/codestudio/problems/1062662>
+
+## Problem 4
+### Boundary Traversal of Binary Tree
+
+#### <https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725>
