@@ -79,3 +79,45 @@
 ### Find Bottom Left Tree Value
 
 #### <https://leetcode.com/problems/find-bottom-left-tree-value/>
+
+
+## Problem 14
+
+### Bottom View Of Binary Tree
+
+#### <https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1>
+
+#### <https://www.codingninjas.com/codestudio/problems/893110>
+
+## Problem 14
+
+### Top View Of Binary Tree
+
+#### <https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1>
+
+#### <https://www.codingninjas.com/codestudio/problems/799401>
+
+
+## Problem 15
+
+### Path to Given Node
+
+#### <https://www.interviewbit.com/problems/path-to-given-node/>
+
+
+## Problem 16
+
+### Maximum Width of Binary Tree
+
+#### <https://leetcode.com/problems/maximum-width-of-binary-tree/>
+
+#### <https://www.codingninjas.com/codestudio/problems/maximum-width-in-binary-tree_763671>
+
+
+## Problem 17
+
+### Symmetric Tree
+
+#### <https://leetcode.com/problems/symmetric-tree/>
+
+
